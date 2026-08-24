@@ -1,6 +1,6 @@
 # Alejandro Dopico
 
-### Complex problems. Money & AI at [Sail](https://github.com/sail-money)
+### Complex problems | Money & AI at [Sail](https://github.com/sail-money)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-dopico/)
 [![X](https://img.shields.io/badge/-@aadopico-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aadopico)
