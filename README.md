@@ -20,7 +20,7 @@ My main areas of interest over the past few years have been AI agents and onchai
 I cofounded and ran [Sail](https://sail.money) (previously Fungi), a venture-backed startup that built and operated money agents at scale. At Sail, I personally built and open-sourced:
 
 - **[Sailor](https://github.com/sail-money/Sailor)** — the first harness for non-custodial money agents.
-- **[Sail Protocol](https://github.com/sail-money/Protocol)** — the first onchain primitive for separately managed accounts (SMAs). It solves capital delegation to AI agents. [Whitepaper](https://github.com/sail-money/Protocol/blob/main/docs/whitepaper/Sail_Protocol_Whitepaper.pdf).
+- **[Sail Protocol](https://github.com/sail-money/Protocol)** — the first onchain primitive for separately managed accounts (SMAs).[Whitepaper](https://github.com/sail-money/Protocol/blob/main/docs/whitepaper/Sail_Protocol_Whitepaper.pdf).
 
 These products were the consequence of three years spent pioneering agentic finance, where we also built:
 
