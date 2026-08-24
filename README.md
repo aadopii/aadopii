@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.jpg" alt="" width="100%" />
-</p>
-
 # Alejandro Dopico
 
 ### Complex problems. Money & AI at [Sail](https://github.com/sail-money)
@@ -17,9 +13,9 @@ Madrid
 
 ### About me
 
-I like to work on complex problems. For some reason, I have an interest in getting involved in stuff that pushes me to my best version. Technology is a natural place to do that, but always as a means, not an end — I already made that mistake once. Beyond work, I enjoy philosophy, history, politics, economics, and more.
+I like to build and sell solutions to complex problems. Technology and business are two natural places to do that, but also enjoy philosophy, history, politics, and economics. 
 
-My main areas of interest over the past few years have been AI agents and onchain finance. First, because I think we're witnessing the creation of an agentic economy. Second, because I think that economy will run on crypto rails: permissionless protocols and digital assets.
+My main areas of interest over the past few years have been AI agents and onchain finance. First, because I think we're witnessing the birth of the agentic economy, and second, because I think that economy will run on crypto rails: permissionless protocols and onchain assets.
 
 I cofounded and ran [Sail](https://sail.money) (previously Fungi), a venture-backed startup that built and operated money agents at scale. At Sail, I personally built and open-sourced:
 
