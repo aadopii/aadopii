@@ -7,8 +7,6 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadopii@gmail.com)
 <!-- add website badge here once aadopico.com or similar is live -->
 
-Madrid
-
 ---
 
 ### About me
