@@ -13,7 +13,7 @@ Madrid
 
 ### About me
 
-I like to build and sell solutions to complex problems. Technology and business are two natural places to do that, but also enjoy philosophy, history, politics, and economics. 
+I like to build and sell solutions to complex problems. Technology and business are two natural places to do that, though I try to keep both as means and never as ends (made that mistake before). Also interested in second-order derivatives in non-scientific areas like philosophy, history, economics, and politics.
 
 My main areas of interest over the past few years have been AI agents and onchain finance. First, because I think we're witnessing the birth of the agentic economy, and second, because I think that economy will run on crypto rails: permissionless protocols and onchain assets.
 
