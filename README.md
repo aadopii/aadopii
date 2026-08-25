@@ -11,23 +11,26 @@
 
 ### About me
 
-I like to build and sell solutions to complex problems. Technology and business are two natural places to do that, though I try to keep both as means and never as ends (made that mistake before). Also interested in second-order derivatives in non-scientific areas like philosophy, history, economics, and politics.
+I like to build and sell solutions to complex problems. Technology and business are two natural places to do that, though I'm also interested in second-order derivatives in non-scientific areas like philosophy, history, economics, and politics.
 
-My main areas of interest over the past few years have been AI agents and onchain finance. First, because I think we're witnessing the birth of the agentic economy, and second, because I think that economy will run on crypto rails: permissionless protocols and onchain assets.
+My main areas of interest over the past few years have been AI agents and onchain finance. First, because I think we're witnessing the birth of the agentic economy, and second, because I think that economy will run on crypto rails.
+
+### Sail
 
 I cofounded and ran [Sail](https://sail.money) (previously Fungi), a venture-backed startup that built and operated money agents at scale. At Sail, I personally built and open-sourced:
 
-- **[Sailor](https://github.com/sail-money/Sailor)** — the first harness for non-custodial money agents.
-- **[Sail Protocol](https://github.com/sail-money/Protocol)** — the first onchain primitive for separately managed accounts (SMAs). [Whitepaper](https://github.com/sail-money/Protocol/blob/main/docs/whitepaper/Sail_Protocol_Whitepaper.pdf).
+- **[Sailor](https://github.com/sail-money/Sailor)** — open source harness for non-custodial money agents.
 
-These products were the consequence of three years spent pioneering agentic finance, where we also built:
+- **[Sail Protocol](https://github.com/sail-money/Protocol)** — open source onchain primitive for separately managed accounts (SMAs). [Whitepaper](https://github.com/sail-money/Protocol/blob/main/docs/whitepaper/Sail_Protocol_Whitepaper.pdf).
 
-- **Stablecoin yield agent** <!-- add demo video link -->: deposit stablecoins and get an agent that autonomously reallocates them across DeFi to maximize yield.
+- **[Stablecoin Yield Agent] (https://youtu.be/uDXk01aoYNo)** — deposit USD and EUR stablecoins to get an agent that autonomously reallocates them across DeFi protocols to maximize yield.
   - +$1M AUM, $700M volume, 200 users.
+  - First live-production AI agent in the world to conduct autonomous swaps & bridges non-custodially.  
   - Two consecutive quarters outperforming the DeFi market — Q4 2025 and Q1 2026.
   - [Sonar](https://x.com/SaildotMoney/status/2046296862794170412), our security agent, caught 4 DeFi exploits.
   - 60+ yield sources for USDC and USDT, live on Base and Arbitrum, on protocols like Aave, Morpho, Fluid, Euler, and more.
-- **Natural language UI for DeFi** <!-- add demo video link -->: interact with tokens and DeFi protocols using natural language.
+  
+- **[Fungi] (https://youtu.be/jX2rEc2g1kg)** — natural language interface for DeFi. Swap, lend, borrow, and trade using natural language. 
 
 Before Sail, I cofounded Boveda, a decentralized storage provider on Filecoin, where we stored over 1 PiB of real data across facilities in Madrid and California. Before that, I worked in banking and asset management, at companies like Allfunds and Santander Bank.
 
