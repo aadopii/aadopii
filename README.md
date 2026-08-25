@@ -22,12 +22,12 @@ I cofounded and ran **[Sail](https://sail.money)** (previously Fungi) as CEO, a 
 - **[Sailor](https://github.com/sail-money/Sailor)** — open source harness for non-custodial money agents.
 
 - **[Sail Protocol](https://github.com/sail-money/Protocol)** — open source onchain primitive for separately managed accounts (SMAs). [Whitepaper](https://github.com/sail-money/Protocol/blob/main/docs/whitepaper/Sail_Protocol_Whitepaper.pdf).
-
-- **[Stablecoin Yield Agent](https://youtu.be/uDXk01aoYNo)** — deposit USD and EUR stablecoins to get an agent that autonomously reallocates them across DeFi protocols to maximize yield.
+ 
+- **[Stablecoin Yield Agent](https://youtu.be/uDXk01aoYNo)** — deposit USD and EUR stablecoins to get an AI agent that autonomously reallocates them across DeFi protocols to maximize yield, powered by a proprietary [optimization engine](assets/papers/sail_v2_optimization_engine.pdf).
   - +$1M AUM, $700M volume, 200 users.
-  - First live-production AI agent in the world to conduct autonomous swaps & bridges non-custodially.  
-  - Two consecutive quarters outperforming the DeFi market — Q4 2025 and Q1 2026.
-  - [Sonar](https://x.com/SaildotMoney/status/2046296862794170412), our security agent, caught 4 DeFi exploits.
+  - First live-production AI agent in the world to conduct autonomous swaps & bridges non-custodially.
+  - Two consecutive quarters outperforming the DeFi market — [Q4 2025](assets/papers/q4_2025_performance_report.pdf) and [Q1 2026](assets/papers/q1_2026_performance_report.pdf). 
+  - [Sonar](assets/papers/sonar_production_system.pdf), our security agent, caught [four DeFi exploits](https://x.com/SaildotMoney/status/2046296862794170412). 
   - 60+ yield sources for USDC and USDT, live on Base and Arbitrum, on protocols like Aave, Morpho, Fluid, Euler, and more.
   
 - **[Fungi](https://youtu.be/jX2rEc2g1kg)** — natural language interface for DeFi. Swap, lend, borrow, and trade using natural language. 
@@ -49,9 +49,12 @@ Before Sail, I cofounded Boveda, a decentralized storage provider on Filecoin, w
 
 ### Talks
 
-- [Decasonic](https://x.com/i/spaces/1PJqrNgWraNxb/peek) · 2026 · [Hanseatic Blockchain Institute](https://www.youtube.com/watch?v=62D2MHDYUBs) · 2026
-- [CoinIx](https://www.youtube.com/watch?v=tnaUakELz2o) · Apr 2026 · [CoinIx](https://www.youtube.com/watch?v=WeSiThcpOWQ) · Jan 2026
-- [Seed Club](https://www.youtube.com/watch?v=EcTisvBrcWw) · Dec 2025 · [Seed Club](https://x.com/i/broadcasts/1dRKZYLVeZzxB) · Jun 2025
+- [Money agents with Cambrian](https://x.com/i/broadcasts/1DxleVBWZBMKL) · 2026 
+- [Crypto & AI with Decasonic](https://x.com/i/spaces/1PJqrNgWraNxb/peek) · 2026 
+- [Personal AI agents for digital money with the Hanseatic Blockchain Institute](https://www.youtube.com/watch?v=62D2MHDYUBs) · 2026
+- [Personal AI agents for digital money with CoinIx](https://www.youtube.com/watch?v=WeSiThcpOWQ) · 2026
+- [Explaining our Stablecoin Yield Agent with Seed Club at the 11am show](https://www.youtube.com/watch?v=EcTisvBrcWw) · 2025 
+- [Intersection of Crypto & AI with Seed Club at the 11am show](https://x.com/i/broadcasts/1dRKZYLVeZzxB) · 14:30-30:30 (2025)
 
 ---
 
