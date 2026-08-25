@@ -17,20 +17,20 @@ My main areas of interest over the past few years have been AI agents and onchai
 
 ### Sail
 
-I cofounded and ran [Sail](https://sail.money) (previously Fungi), a venture-backed startup that built and operated money agents at scale. At Sail, I personally built and open-sourced:
+I cofounded and ran **[Sail](https://sail.money)** (previously Fungi), a venture-backed startup that built and operated money agents at scale. At Sail, I personally built and open-sourced:
 
 - **[Sailor](https://github.com/sail-money/Sailor)** — open source harness for non-custodial money agents.
 
 - **[Sail Protocol](https://github.com/sail-money/Protocol)** — open source onchain primitive for separately managed accounts (SMAs). [Whitepaper](https://github.com/sail-money/Protocol/blob/main/docs/whitepaper/Sail_Protocol_Whitepaper.pdf).
 
-- **[Stablecoin Yield Agent] (https://youtu.be/uDXk01aoYNo)** — deposit USD and EUR stablecoins to get an agent that autonomously reallocates them across DeFi protocols to maximize yield.
+- **[Stablecoin Yield Agent](https://youtu.be/uDXk01aoYNo)** — deposit USD and EUR stablecoins to get an agent that autonomously reallocates them across DeFi protocols to maximize yield.
   - +$1M AUM, $700M volume, 200 users.
   - First live-production AI agent in the world to conduct autonomous swaps & bridges non-custodially.  
   - Two consecutive quarters outperforming the DeFi market — Q4 2025 and Q1 2026.
   - [Sonar](https://x.com/SaildotMoney/status/2046296862794170412), our security agent, caught 4 DeFi exploits.
   - 60+ yield sources for USDC and USDT, live on Base and Arbitrum, on protocols like Aave, Morpho, Fluid, Euler, and more.
   
-- **[Fungi] (https://youtu.be/jX2rEc2g1kg)** — natural language interface for DeFi. Swap, lend, borrow, and trade using natural language. 
+- **[Fungi](https://youtu.be/jX2rEc2g1kg)** — natural language interface for DeFi. Swap, lend, borrow, and trade using natural language. 
 
 Before Sail, I cofounded Boveda, a decentralized storage provider on Filecoin, where we stored over 1 PiB of real data across facilities in Madrid and California. Before that, I worked in banking and asset management, at companies like Allfunds and Santander Bank.
 
