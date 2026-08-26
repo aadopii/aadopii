@@ -24,7 +24,7 @@ I cofounded and ran **[Sail](https://sail.money)** (previously Fungi) as CEO, a 
 - **[Sail Protocol](https://github.com/sail-money/Protocol)** — open source onchain primitive for separately managed accounts (SMAs). [Whitepaper](https://github.com/sail-money/Protocol/blob/main/docs/whitepaper/Sail_Protocol_Whitepaper.pdf).
  
 - **[Stablecoin Yield Agent](https://youtu.be/uDXk01aoYNo)** — deposit USD and EUR stablecoins to get an AI agent that autonomously reallocates them across DeFi protocols to maximize yield, powered by a proprietary [optimization engine](assets/papers/sail_v2_optimization_engine.pdf).
-  - +$1M AUM, $700M volume, 200 users.
+  - +$1M AUM, $700M volume, 300 users.
   - First live-production AI agent in the world to conduct autonomous swaps & bridges non-custodially.
   - Two consecutive quarters outperforming the DeFi market — [Q4 2025](assets/papers/q4_2025_performance_report.pdf) and [Q1 2026](assets/papers/q1_2026_performance_report.pdf). 
   - [Sonar](assets/papers/sonar_production_system.pdf), our security agent, caught [four DeFi exploits](https://x.com/SaildotMoney/status/2046296862794170412). 
