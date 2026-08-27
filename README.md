@@ -2,10 +2,10 @@
 
 ### Complex problems | Money & AI at [Sail](https://github.com/sail-money)
 
-<a href="https://alejandrodopico.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-<a href="https://www.linkedin.com/in/alejandro-dopico/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/aadopico" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-@aadopico-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-<a href="mailto:aadopii@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alejandrodopico.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-dopico/)
+[![X](https://img.shields.io/badge/-@aadopico-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aadopico)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadopii@gmail.com)
 
 ---
 
