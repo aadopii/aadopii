@@ -15,7 +15,7 @@ I like to build and sell solutions to complex problems. Technology and business 
 
 My main areas of interest over the past few years have been AI agents and onchain finance. First, because I think we're witnessing the birth of the agentic economy, and second, because I think that economy will run on crypto rails.
 
-### Sail
+### Work
 
 I cofounded and ran **[Sail](https://sail.money)** (previously Fungi) as CEO, a venture-backed startup that built and operated money agents at scale. At Sail, I personally built and open-sourced:
 
