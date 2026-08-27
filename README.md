@@ -2,14 +2,16 @@
 
 ### Complex problems | Money & AI at [Sail](https://github.com/sail-money)
 
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alejandrodopico.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-dopico/)
 [![X](https://img.shields.io/badge/-@aadopico-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aadopico)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadopii@gmail.com)
-<!-- add website badge here once aadopico.com or similar is live -->
 
 ---
 
 ### About me
+
+Born in Caracas. Made in Madrid.
 
 I like to build and sell solutions to complex problems. Technology and business are two natural places to do that, though I'm also interested in second-order derivatives in non-scientific areas like philosophy, history, economics, and politics.
 
