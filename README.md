@@ -19,7 +19,7 @@ My main areas of interest over the past few years have been AI agents and onchai
 
 ### Work
 
-I'm currently working as a **Forward Deployed Engineer (FDE) focused on AI agents at Crossmint**. 
+I'm currently working as a **Forward Deployed Engineer (FDE) focused on AI agents at [Crossmint](https://www.crossmint.com/)**. 
 
 Previously, I cofounded and ran **[Sail](https://sail.money)** (previously Fungi) as CEO, a venture-backed startup that built and operated money agents at scale. At Sail, I personally built and open-sourced:
 
